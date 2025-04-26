@@ -9,4 +9,4 @@ Step3:Caculate.
 
 Step4:Save the results.
 
-Please download the program's executable file in the release
+Please download the program's executable file in the releases
